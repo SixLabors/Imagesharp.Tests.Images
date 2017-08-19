@@ -8,3 +8,4 @@ Contains images to validate against in ImageSharp tests. In most cases the file 
 ### tools
 Various utilities to help dealing with images.
 - `optipng.exe`: [lossless PNG compressor](http://optipng.sourceforge.net/), to keep the `ReferenceImages` repository as small as possible
+- `optimize-all.cmd`: Runs lossless optimizer for all reference PNG-s.
