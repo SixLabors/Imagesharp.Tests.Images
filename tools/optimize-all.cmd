@@ -6,3 +6,4 @@ optipng.exe -o 7 ../ReferenceOutput/AffineTransformTests/*.png
 optipng.exe -o 7 ../ReferenceOutput/GifDecoderTests/**/*.png
 optipng.exe -o 7 ../ReferenceOutput/PorterDuffCompositorTests/**/*.png
 optipng.exe -o 7 ../ReferenceOutput/ProjectiveTransformTests/**/*.png
+optipng.exe -o 7 ../ReferenceOutput/Drawing/GradientBrushes/**/*.png
