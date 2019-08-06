@@ -9,3 +9,4 @@ optipng.exe -o 7 ../ReferenceOutput/ProjectiveTransformTests/**/*.png
 optipng.exe -o 7 ../ReferenceOutput/Drawing/GradientBrushes/**/*.png
 optipng.exe -o 7 ../ReferenceOutput/Drawing/Text/**/*.png
 optipng.exe -o 7 ../ReferenceOutput/FlipTests/*.png
+optipng.exe -o 7 ../ReferenceOutput/BokehBlurTest/*.png
